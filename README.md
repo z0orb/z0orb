@@ -17,7 +17,10 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td align="center" valign="middle">
+      <a href="https://github.com/z0orb/arel-wars-1-fan-revival"><img src="https://raw.githubusercontent.com/z0orb/arel-wars-1-fan-revival/main/screenshots/battle.png" width="380" alt="Arel Wars battle screen running on a modern Android phone"></a>
+    </td>
+    <td valign="top">
       <h4><a href="https://github.com/z0orb/arel-wars-1-fan-revival">⚔️ Arel Wars 1 — Fan Revival</a></h4>
       <p>Gamevil's 2012 tower-war RPG, patched to run <b>fully offline</b> on Android 5 to 16. Version 2 runs the original ARM32 game code in a small emulator inside the app, so it also works on <b>64-bit-only phones</b>.</p>
       <p>
@@ -27,7 +30,13 @@
       </p>
       <sub>Reverse engineering · ARM emulation · APK patching</sub>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/z0orb/akagi"><img src="https://raw.githubusercontent.com/z0orb/akagi/main/art/screenshots/03-library.png" width="170" alt="Akagi's offline music library"></a>
+      <a href="https://github.com/z0orb/akagi"><img src="https://raw.githubusercontent.com/z0orb/akagi/main/art/screenshots/05-player.png" width="170" alt="Akagi's player with a waveform seek bar"></a>
+    </td>
+    <td valign="top">
       <h4><a href="https://github.com/z0orb/akagi">🎧 Akagi</a></h4>
       <p>A YouTube audio downloader and offline music player for Android. Save any video's audio as Opus or M4A and listen anywhere. No account, no ads, no tracking.</p>
       <p>
@@ -37,7 +46,17 @@
       </p>
       <sub>yt-dlp · Media3 · Jetpack Compose</sub>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td valign="middle">
+<pre>&gt; watchtower.exe install
+  # copies itself to %ProgramFiles%\Watchtower,
+  # starts the service, adds the tray to startup
+&gt; watchtower.exe uninstall
+  # removes it all, unpins the gateway,
+  # restores DNS and adapter settings</pre>
+    </td>
+    <td valign="top">
       <h4><a href="https://github.com/z0orb/watchtower">🗼 Watchtower</a></h4>
       <p>A Windows background service that <b>defends against ARP spoofing</b> (NetCut-style cut-offs) and <b>auto-recovers dropped connections</b> on home networks with one router and one ISP.</p>
       <p>
