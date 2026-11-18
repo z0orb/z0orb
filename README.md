@@ -1,27 +1,86 @@
-# Hi 👋, I'm z0orb
+<h1 align="center">Hi, I'm z0orb</h1>
 
-### Software Engineering Undergraduate from Institut Teknologi Sepuluh Nopember
-
-- 🔭 I'm currently working on **Studying NextJS**
-
-- 🌱 I'm currently learning **Typescript and NextJS**
-
-- 👯 I'm looking to collaborate on **College Assignment Repositories**
-
-- 🤝 I'm looking for help with **Creating UI and designing**
-
-- 💬 Ask me about **Node.js and ExpressJS**
-
-- 📫 How to reach me **jasonmaxmilanadrian@gmail.com**
-
-- ⚡ Fun fact **Underrail and Rimworld enthusiast**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/z0orb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="z0orb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jason-maxmilan-adrianputra-71a68b33b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-maxmilan-adrianputra-71a68b33b" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineering student at Institut Teknologi Sepuluh Nopember (ITS), Surabaya.</b><br>
+  I build Android apps that mostly solve my own needs, small Windows tools, and I (try to) bring dead mobile games back to life, especially ones I loved to play as a kid.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://linkedin.com/in/jason-maxmilan-adrianputra-71a68b33b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jasonmaxmilanadrian@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Surabaya,_Indonesia-555?style=flat-square&logo=googlemaps&logoColor=white">
+</p>
 
+---
+
+### 🛠️ What I've been building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/z0orb/arel-wars-1-fan-revival">⚔️ Arel Wars 1 — Fan Revival</a></h4>
+      <p>Gamevil's 2012 tower-war RPG, patched to run <b>fully offline</b> on Android 5 to 16. Version 2 runs the original ARM32 game code in a small emulator inside the app, so it also works on <b>64-bit-only phones</b>.</p>
+      <p>
+        <img alt="release" src="https://img.shields.io/github/v/release/z0orb/arel-wars-1-fan-revival?style=flat-square&label=release&color=2ea44f">
+        <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+      </p>
+      <sub>Reverse engineering · ARM emulation · APK patching</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/z0orb/akagi">🎧 Akagi</a></h4>
+      <p>A YouTube audio downloader and offline music player for Android. Save any video's audio as Opus or M4A and listen anywhere. No account, no ads, no tracking.</p>
+      <p>
+        <img alt="release" src="https://img.shields.io/github/v/release/z0orb/akagi?style=flat-square&label=release&color=4f7fd8">
+        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+        <img alt="Jetpack Compose" src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
+      </p>
+      <sub>yt-dlp · Media3 · Jetpack Compose</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/z0orb/watchtower">🗼 Watchtower</a></h4>
+      <p>A Windows background service that <b>defends against ARP spoofing</b> (NetCut-style cut-offs) and <b>auto-recovers dropped connections</b> on home networks with one router and one ISP.</p>
+      <p>
+        <img alt="release" src="https://img.shields.io/github/v/release/z0orb/watchtower?style=flat-square&label=release&color=e3a008">
+        <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+        <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+      </p>
+      <sub>Networking · Npcap · Windows services</sub>
+    </td>
+  </tr>
+</table>
+
+### 📚 Coursework and other projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [laravel-vue-pos-refactored](https://github.com/z0orb/laravel-vue-pos-refactored) | Code-smell refactoring of a Laravel + Vue POS, with characterization tests | PHP · Vue |
+| [backend-5053241021-ets](https://github.com/z0orb/backend-5053241021-ets) | Backend midterm project | Go |
+| [wimsa-fastlit](https://github.com/z0orb/wimsa-fastlit) | Warehouse inventory manager with analytics | FastAPI · Streamlit |
+| [z0orb-rplibrary](https://github.com/z0orb/z0orb-rplibrary) | Library REST API (Lab SE open recruitment 2026) | Django REST Framework |
+| [a-star-assault-tower-defense](https://github.com/z0orb/a-star-assault-tower-defense) | Tower defense where your barricades reshape the enemies' A* paths | Python |
+| [cat-and-mouse-simulation](https://github.com/z0orb/cat-and-mouse-simulation) | BFS pathfinding simulation on random maps | Python |
+| [chat-connect](https://github.com/z0orb/chat-connect) | Anonymous chat with random people, minimal sign-up | JavaScript |
+| [ctf-writeups](https://github.com/z0orb/ctf-writeups) | Writeups from Intersec HCS 2025 and MiniCTF UCS ITS 2025 | — |
+
+### 🧰 Tech I use
+
+**Most used lately**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,go,cpp,py,fastapi,django,php,laravel,vue&perline=10" alt="Kotlin, Android Studio, Go, C++, Python, FastAPI, Django, PHP, Laravel, Vue">
+</p>
+
+**Also comfortable with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,c,js,ts,nodejs,express,react,tailwind,html,css,postgres,mysql,mongodb,unity,linux,nginx,azure,git,postman,figma&perline=11" alt="Java, C#, C, JavaScript, TypeScript, Node.js, Express, React, Tailwind, HTML, CSS, PostgreSQL, MySQL, MongoDB, Unity, Linux, Nginx, Azure, Git, Postman, Figma">
+</p>
+
+### ⚡ Off the clock
+
+- Currently digging into **reverse engineering** and old **ARM binaries**.
+- Underrail and RimWorld enthusiast.
+- Open to collaborating on college projects. I'd love help on **UI and design**.
+
+<p align="center"><sub>月月火水木金金</sub></p>
