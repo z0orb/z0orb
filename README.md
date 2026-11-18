@@ -81,6 +81,6 @@
 
 - Currently digging into **reverse engineering** and old **ARM binaries**.
 - Underrail and RimWorld enthusiast.
-- Open to collaborating on college projects. I'd love help on **UI and design**.
+- Open to collaborating on college projects.
 
 <p align="center"><sub>月月火水木金金</sub></p>
